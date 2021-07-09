@@ -4,3 +4,9 @@ Author: Dip
 Version: 1.0
 Description: It's cool
 */
+
+body{
+    color: slategrey;
+    margin: 10px;
+    text-align: center;
+}
